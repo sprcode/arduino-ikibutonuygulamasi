@@ -1,4 +1,6 @@
 # arduino-ikibutonuygulamasi
+Detaylı bilgi ve kod açıklamaları için https://sprcode.com/iki-buton/264/
+
 <h2>Malzeme Listesi</h2>
   <ul>
     <li>Arduino Uno</li>
